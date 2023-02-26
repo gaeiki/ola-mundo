@@ -11,7 +11,7 @@ Gabriel Eiki Oshiro
  <a href="#-functionalities">Functionalities</a> •
  <a href="#-layout">Layout</a> •
  <a href="#-technologies">Technologies</a> •
- <a href="#-autor">Author</a>  
+ <a href="#-author">Author</a>  
  <!-- <a href="#user-content--licença">Licence</a> -->
 </p>
 
@@ -23,7 +23,7 @@ Gabriel Eiki Oshiro
 ---
 
 ## 🌐 Access the project
-https://alura-space-coral.vercel.app/
+https://ola-mundo-three-phi.vercel.app/
 
 ## ⚙️ Functionalities
 
@@ -52,7 +52,7 @@ O layout da aplicação está disponível no Figma:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/NeiltonSeguins/alura-space.git
+$ git clone https://github.com/gaeiki/ola-mundo.git
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd ola-mundo
 # Instale as dependências
